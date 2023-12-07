@@ -1,2 +1,24 @@
-# Web_Database_Final_Project_Front_End
-Front End (Vue.JS) Code For The  Final Project For The Web Database Course
+# gotbook
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
