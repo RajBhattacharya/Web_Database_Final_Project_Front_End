@@ -28,7 +28,7 @@ export default{
 
   methods:{
     async fetchcontinents(){
-      const res = await fetch("http://localhost:3983/api")
+      const res = await fetch("https://continents-countries-capitals.onrender.com")
       const data = await res.json()
       console.log(data)
       return data
